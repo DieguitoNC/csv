@@ -1,4 +1,7 @@
 defmodule Csv do
+  def parse do
+
+  end
   @moduledoc """
   A função parse/1 deve receber o nome de um arquivo CSV no disco.
 
