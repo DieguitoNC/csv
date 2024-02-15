@@ -24,7 +24,7 @@ Eu usei o mesmo metodo para converter para mapa, porém eu queria que retornasse
 # Documentos extras
 criei 2 documentos cities2 e cities3 para checar se eles devolvem os problemas relatados corretamentes
 
-# flie_exist
+# file_exist
 Aqui eu tinha feito de um modo que estava me retornando modo binario e depois de muito tempo vi que poderia usar case para funcionar corretamente e se o resultado fosse true ele retornaria o proprio documento e seguiria o código, caso desse negattivo exibiria a msg que o arquivo não foi encontrado
 
 # file_empty
